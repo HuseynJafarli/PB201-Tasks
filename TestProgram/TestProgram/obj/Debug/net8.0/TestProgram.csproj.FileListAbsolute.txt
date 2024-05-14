@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\TestProgram\TestProgram\bin\Debug\net8.0\TestProgram.exe
+C:\Users\User\source\repos\TestProgram\TestProgram\bin\Debug\net8.0\TestProgram.deps.json
+C:\Users\User\source\repos\TestProgram\TestProgram\bin\Debug\net8.0\TestProgram.runtimeconfig.json
+C:\Users\User\source\repos\TestProgram\TestProgram\bin\Debug\net8.0\TestProgram.dll
+C:\Users\User\source\repos\TestProgram\TestProgram\bin\Debug\net8.0\TestProgram.pdb
+C:\Users\User\source\repos\TestProgram\TestProgram\obj\Debug\net8.0\TestProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TestProgram\TestProgram\obj\Debug\net8.0\TestProgram.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TestProgram\TestProgram\obj\Debug\net8.0\TestProgram.AssemblyInfo.cs
+C:\Users\User\source\repos\TestProgram\TestProgram\obj\Debug\net8.0\TestProgram.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TestProgram\TestProgram\obj\Debug\net8.0\TestProgram.dll
+C:\Users\User\source\repos\TestProgram\TestProgram\obj\Debug\net8.0\refint\TestProgram.dll
+C:\Users\User\source\repos\TestProgram\TestProgram\obj\Debug\net8.0\TestProgram.pdb
+C:\Users\User\source\repos\TestProgram\TestProgram\obj\Debug\net8.0\TestProgram.genruntimeconfig.cache
+C:\Users\User\source\repos\TestProgram\TestProgram\obj\Debug\net8.0\ref\TestProgram.dll
