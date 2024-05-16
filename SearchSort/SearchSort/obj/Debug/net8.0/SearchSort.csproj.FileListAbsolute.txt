@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\PB201-Tasks\SearchSort\SearchSort\bin\Debug\net8.0\SearchSort.exe
+C:\Users\User\Desktop\PB201-Tasks\SearchSort\SearchSort\bin\Debug\net8.0\SearchSort.deps.json
+C:\Users\User\Desktop\PB201-Tasks\SearchSort\SearchSort\bin\Debug\net8.0\SearchSort.runtimeconfig.json
+C:\Users\User\Desktop\PB201-Tasks\SearchSort\SearchSort\bin\Debug\net8.0\SearchSort.dll
+C:\Users\User\Desktop\PB201-Tasks\SearchSort\SearchSort\bin\Debug\net8.0\SearchSort.pdb
+C:\Users\User\Desktop\PB201-Tasks\SearchSort\SearchSort\obj\Debug\net8.0\SearchSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PB201-Tasks\SearchSort\SearchSort\obj\Debug\net8.0\SearchSort.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PB201-Tasks\SearchSort\SearchSort\obj\Debug\net8.0\SearchSort.AssemblyInfo.cs
+C:\Users\User\Desktop\PB201-Tasks\SearchSort\SearchSort\obj\Debug\net8.0\SearchSort.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PB201-Tasks\SearchSort\SearchSort\obj\Debug\net8.0\SearchSort.sourcelink.json
+C:\Users\User\Desktop\PB201-Tasks\SearchSort\SearchSort\obj\Debug\net8.0\SearchSort.dll
+C:\Users\User\Desktop\PB201-Tasks\SearchSort\SearchSort\obj\Debug\net8.0\refint\SearchSort.dll
+C:\Users\User\Desktop\PB201-Tasks\SearchSort\SearchSort\obj\Debug\net8.0\SearchSort.pdb
+C:\Users\User\Desktop\PB201-Tasks\SearchSort\SearchSort\obj\Debug\net8.0\SearchSort.genruntimeconfig.cache
+C:\Users\User\Desktop\PB201-Tasks\SearchSort\SearchSort\obj\Debug\net8.0\ref\SearchSort.dll
