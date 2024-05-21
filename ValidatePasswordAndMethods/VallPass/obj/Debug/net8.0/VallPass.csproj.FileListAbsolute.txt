@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\PB201-Tasks\ValidatePasswordAndMethods\VallPass\bin\Debug\net8.0\VallPass.exe
+C:\Users\User\Desktop\PB201-Tasks\ValidatePasswordAndMethods\VallPass\bin\Debug\net8.0\VallPass.deps.json
+C:\Users\User\Desktop\PB201-Tasks\ValidatePasswordAndMethods\VallPass\bin\Debug\net8.0\VallPass.runtimeconfig.json
+C:\Users\User\Desktop\PB201-Tasks\ValidatePasswordAndMethods\VallPass\bin\Debug\net8.0\VallPass.dll
+C:\Users\User\Desktop\PB201-Tasks\ValidatePasswordAndMethods\VallPass\bin\Debug\net8.0\VallPass.pdb
+C:\Users\User\Desktop\PB201-Tasks\ValidatePasswordAndMethods\VallPass\obj\Debug\net8.0\VallPass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PB201-Tasks\ValidatePasswordAndMethods\VallPass\obj\Debug\net8.0\VallPass.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PB201-Tasks\ValidatePasswordAndMethods\VallPass\obj\Debug\net8.0\VallPass.AssemblyInfo.cs
+C:\Users\User\Desktop\PB201-Tasks\ValidatePasswordAndMethods\VallPass\obj\Debug\net8.0\VallPass.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PB201-Tasks\ValidatePasswordAndMethods\VallPass\obj\Debug\net8.0\VallPass.sourcelink.json
+C:\Users\User\Desktop\PB201-Tasks\ValidatePasswordAndMethods\VallPass\obj\Debug\net8.0\VallPass.dll
+C:\Users\User\Desktop\PB201-Tasks\ValidatePasswordAndMethods\VallPass\obj\Debug\net8.0\refint\VallPass.dll
+C:\Users\User\Desktop\PB201-Tasks\ValidatePasswordAndMethods\VallPass\obj\Debug\net8.0\VallPass.pdb
+C:\Users\User\Desktop\PB201-Tasks\ValidatePasswordAndMethods\VallPass\obj\Debug\net8.0\VallPass.genruntimeconfig.cache
+C:\Users\User\Desktop\PB201-Tasks\ValidatePasswordAndMethods\VallPass\obj\Debug\net8.0\ref\VallPass.dll
