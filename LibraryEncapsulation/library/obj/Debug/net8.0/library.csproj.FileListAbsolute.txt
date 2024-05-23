@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\PB201-Tasks\LibraryEncapsulation\library\obj\Debug\net8.0\library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PB201-Tasks\LibraryEncapsulation\library\obj\Debug\net8.0\library.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PB201-Tasks\LibraryEncapsulation\library\obj\Debug\net8.0\library.AssemblyInfo.cs
+C:\Users\User\Desktop\PB201-Tasks\LibraryEncapsulation\library\obj\Debug\net8.0\library.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PB201-Tasks\LibraryEncapsulation\library\obj\Debug\net8.0\library.sourcelink.json
+C:\Users\User\Desktop\PB201-Tasks\LibraryEncapsulation\library\bin\Debug\net8.0\library.exe
+C:\Users\User\Desktop\PB201-Tasks\LibraryEncapsulation\library\bin\Debug\net8.0\library.deps.json
+C:\Users\User\Desktop\PB201-Tasks\LibraryEncapsulation\library\bin\Debug\net8.0\library.runtimeconfig.json
+C:\Users\User\Desktop\PB201-Tasks\LibraryEncapsulation\library\bin\Debug\net8.0\library.dll
+C:\Users\User\Desktop\PB201-Tasks\LibraryEncapsulation\library\bin\Debug\net8.0\library.pdb
+C:\Users\User\Desktop\PB201-Tasks\LibraryEncapsulation\library\obj\Debug\net8.0\library.dll
+C:\Users\User\Desktop\PB201-Tasks\LibraryEncapsulation\library\obj\Debug\net8.0\refint\library.dll
+C:\Users\User\Desktop\PB201-Tasks\LibraryEncapsulation\library\obj\Debug\net8.0\library.pdb
+C:\Users\User\Desktop\PB201-Tasks\LibraryEncapsulation\library\obj\Debug\net8.0\library.genruntimeconfig.cache
+C:\Users\User\Desktop\PB201-Tasks\LibraryEncapsulation\library\obj\Debug\net8.0\ref\library.dll
