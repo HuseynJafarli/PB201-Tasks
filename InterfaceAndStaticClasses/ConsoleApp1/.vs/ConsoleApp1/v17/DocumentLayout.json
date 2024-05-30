@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{49B37B18-C0A8-4857-ABE4-FD5C48D93A4A}|ConsoleApp1.csproj|solutionrelative:group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49B37B18-C0A8-4857-ABE4-FD5C48D93A4A}|ConsoleApp1.csproj|c:\\users\\user\\desktop\\pb201-tasks\\interfaceandstaticclasses\\consoleapp1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49B37B18-C0A8-4857-ABE4-FD5C48D93A4A}|ConsoleApp1.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{49B37B18-C0A8-4857-ABE4-FD5C48D93A4A}|ConsoleApp1.csproj|c:\\users\\user\\desktop\\pb201-tasks\\interfaceandstaticclasses\\consoleapp1\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49B37B18-C0A8-4857-ABE4-FD5C48D93A4A}|ConsoleApp1.csproj|solutionrelative:iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B37B18-C0A8-4857-ABE4-FD5C48D93A4A}|ConsoleApp1.csproj|c:\\users\\user\\desktop\\pb201-tasks\\interfaceandstaticclasses\\consoleapp1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B37B18-C0A8-4857-ABE4-FD5C48D93A4A}|ConsoleApp1.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49B37B18-C0A8-4857-ABE4-FD5C48D93A4A}|ConsoleApp1.csproj|c:\\users\\user\\desktop\\pb201-tasks\\interfaceandstaticclasses\\consoleapp1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -40,10 +40,33 @@
               "RelativeDocumentMoniker": "User.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\InterfaceAndStaticClasses\\ConsoleApp1\\User.cs",
               "RelativeToolTip": "User.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAiwDIAAAAAAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAswBQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T07:26:22.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-30T07:26:22.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\InterfaceAndStaticClasses\\ConsoleApp1\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\InterfaceAndStaticClasses\\ConsoleApp1\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:41:32.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAccount.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\InterfaceAndStaticClasses\\ConsoleApp1\\IAccount.cs",
+              "RelativeDocumentMoniker": "IAccount.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\InterfaceAndStaticClasses\\ConsoleApp1\\IAccount.cs",
+              "RelativeToolTip": "IAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:40:37.055Z"
             },
             {
               "$type": "Document",
@@ -53,36 +76,9 @@
               "RelativeDocumentMoniker": "Group.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\InterfaceAndStaticClasses\\ConsoleApp1\\Group.cs",
               "RelativeToolTip": "Group.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAzwBEAAAARAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowCEAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T20:41:55.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\InterfaceAndStaticClasses\\ConsoleApp1\\Student.cs",
-              "RelativeDocumentMoniker": "Student.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\InterfaceAndStaticClasses\\ConsoleApp1\\Student.cs",
-              "RelativeToolTip": "Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T20:41:32.461Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IAccount.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\InterfaceAndStaticClasses\\ConsoleApp1\\IAccount.cs",
-              "RelativeDocumentMoniker": "IAccount.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\InterfaceAndStaticClasses\\ConsoleApp1\\IAccount.cs",
-              "RelativeToolTip": "IAccount.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T20:40:37.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T20:41:55.341Z"
             },
             {
               "$type": "Document",
@@ -92,7 +88,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\InterfaceAndStaticClasses\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAJoAAAAAAAAAAAAAAKsAAAAFAAAA",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAAKAAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T20:39:56.704Z",
               "EditorCaption": ""

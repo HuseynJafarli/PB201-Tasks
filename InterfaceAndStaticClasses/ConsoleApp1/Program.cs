@@ -158,7 +158,7 @@ namespace ConsoleApp1
             int point;
 
             Console.WriteLine("Enter point: ");
-            point = Convert.ToInt32(Console.Read());
+            point = Convert.ToInt32(Console.ReadLine());
                 
             var student = new Student
             {
