@@ -5,7 +5,7 @@
         public int Point { get; set; }
         public void StudentInfo()
         {
-            Console.WriteLine($"Student Name: {FullName} , Email: {Email} , Point: {Point}");
+            Console.WriteLine($"Student Name: {FullName}, Point: {Point}");
         }
     }
 }

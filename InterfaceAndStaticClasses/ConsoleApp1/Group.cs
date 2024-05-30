@@ -16,10 +16,6 @@
                 {
                     _studentLimit = value;
                 }
-                else
-                {
-                    Console.WriteLine("Limit must be between 5 and 18");
-                }
             }
         }
 

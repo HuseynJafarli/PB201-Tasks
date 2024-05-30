@@ -25,13 +25,11 @@
             _count = 0;
         }
 
-        public User(string fullname, string email, string password)
+        public User()
         {
             _count++;
             _id = _count;
-            FullName = fullname;
-            Email = email;
-            Password = password;
+
         }
 
         public bool PasswordChecker(string password)
