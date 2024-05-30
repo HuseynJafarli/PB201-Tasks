@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\PB201-Tasks\\InterfaceAndStaticClasses\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49B37B18-C0A8-4857-ABE4-FD5C48D93A4A}|ConsoleApp1.csproj|c:\\users\\user\\desktop\\pb201-tasks\\interfaceandstaticclasses\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B37B18-C0A8-4857-ABE4-FD5C48D93A4A}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B37B18-C0A8-4857-ABE4-FD5C48D93A4A}|ConsoleApp1.csproj|c:\\users\\user\\desktop\\pb201-tasks\\interfaceandstaticclasses\\consoleapp1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B37B18-C0A8-4857-ABE4-FD5C48D93A4A}|ConsoleApp1.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B37B18-C0A8-4857-ABE4-FD5C48D93A4A}|ConsoleApp1.csproj|c:\\users\\user\\desktop\\pb201-tasks\\interfaceandstaticclasses\\consoleapp1\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B37B18-C0A8-4857-ABE4-FD5C48D93A4A}|ConsoleApp1.csproj|solutionrelative:group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B37B18-C0A8-4857-ABE4-FD5C48D93A4A}|ConsoleApp1.csproj|c:\\users\\user\\desktop\\pb201-tasks\\interfaceandstaticclasses\\consoleapp1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B37B18-C0A8-4857-ABE4-FD5C48D93A4A}|ConsoleApp1.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B37B18-C0A8-4857-ABE4-FD5C48D93A4A}|ConsoleApp1.csproj|c:\\users\\user\\desktop\\pb201-tasks\\interfaceandstaticclasses\\consoleapp1\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B37B18-C0A8-4857-ABE4-FD5C48D93A4A}|ConsoleApp1.csproj|solutionrelative:iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\InterfaceAndStaticClasses\\ConsoleApp1\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\InterfaceAndStaticClasses\\ConsoleApp1\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:26:22.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\InterfaceAndStaticClasses\\ConsoleApp1\\Group.cs",
+              "RelativeDocumentMoniker": "Group.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\InterfaceAndStaticClasses\\ConsoleApp1\\Group.cs",
+              "RelativeToolTip": "Group.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:41:55.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\InterfaceAndStaticClasses\\ConsoleApp1\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\InterfaceAndStaticClasses\\ConsoleApp1\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:41:32.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAccount.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\InterfaceAndStaticClasses\\ConsoleApp1\\IAccount.cs",
+              "RelativeDocumentMoniker": "IAccount.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\InterfaceAndStaticClasses\\ConsoleApp1\\IAccount.cs",
+              "RelativeToolTip": "IAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:40:37.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\InterfaceAndStaticClasses\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\InterfaceAndStaticClasses\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:39:56.704Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
