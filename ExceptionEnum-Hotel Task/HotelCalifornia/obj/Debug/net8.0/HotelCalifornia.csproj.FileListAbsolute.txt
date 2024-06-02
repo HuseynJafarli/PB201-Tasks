@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\PB201-Tasks\ExceptionEnum-Hotel Task\HotelCalifornia\bin\Debug\net8.0\HotelCalifornia.exe
+C:\Users\User\Desktop\PB201-Tasks\ExceptionEnum-Hotel Task\HotelCalifornia\bin\Debug\net8.0\HotelCalifornia.deps.json
+C:\Users\User\Desktop\PB201-Tasks\ExceptionEnum-Hotel Task\HotelCalifornia\bin\Debug\net8.0\HotelCalifornia.runtimeconfig.json
+C:\Users\User\Desktop\PB201-Tasks\ExceptionEnum-Hotel Task\HotelCalifornia\bin\Debug\net8.0\HotelCalifornia.dll
+C:\Users\User\Desktop\PB201-Tasks\ExceptionEnum-Hotel Task\HotelCalifornia\bin\Debug\net8.0\HotelCalifornia.pdb
+C:\Users\User\Desktop\PB201-Tasks\ExceptionEnum-Hotel Task\HotelCalifornia\obj\Debug\net8.0\HotelCalifornia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PB201-Tasks\ExceptionEnum-Hotel Task\HotelCalifornia\obj\Debug\net8.0\HotelCalifornia.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PB201-Tasks\ExceptionEnum-Hotel Task\HotelCalifornia\obj\Debug\net8.0\HotelCalifornia.AssemblyInfo.cs
+C:\Users\User\Desktop\PB201-Tasks\ExceptionEnum-Hotel Task\HotelCalifornia\obj\Debug\net8.0\HotelCalifornia.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PB201-Tasks\ExceptionEnum-Hotel Task\HotelCalifornia\obj\Debug\net8.0\HotelCalifornia.sourcelink.json
+C:\Users\User\Desktop\PB201-Tasks\ExceptionEnum-Hotel Task\HotelCalifornia\obj\Debug\net8.0\HotelCalifornia.dll
+C:\Users\User\Desktop\PB201-Tasks\ExceptionEnum-Hotel Task\HotelCalifornia\obj\Debug\net8.0\refint\HotelCalifornia.dll
+C:\Users\User\Desktop\PB201-Tasks\ExceptionEnum-Hotel Task\HotelCalifornia\obj\Debug\net8.0\HotelCalifornia.pdb
+C:\Users\User\Desktop\PB201-Tasks\ExceptionEnum-Hotel Task\HotelCalifornia\obj\Debug\net8.0\HotelCalifornia.genruntimeconfig.cache
+C:\Users\User\Desktop\PB201-Tasks\ExceptionEnum-Hotel Task\HotelCalifornia\obj\Debug\net8.0\ref\HotelCalifornia.dll
