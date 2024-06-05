@@ -17,16 +17,17 @@
             library.AddBook(book4);
             library.AddBook(book5);
 
-            
+            Console.WriteLine(book1.Code);
 
-            try
-            {
-                Console.WriteLine(library.FindBookByCode("Fi2"));
-            }
-            catch (BookNotFoundException ex)
-            {
-                Console.WriteLine(ex.Message); 
-            }
+
+            //try
+            //{
+            //    Console.WriteLine(library.FindBookByCode("Fi2"));
+            //}
+            //catch (BookNotFoundException ex)
+            //{
+            //    Console.WriteLine(ex.Message); 
+            //}
 
             //Book[] findedBooks = library.FindAllBooksByPageCountRange(100, 200);
             //Helper.ShowAllBooksInArray(ref findedBooks);

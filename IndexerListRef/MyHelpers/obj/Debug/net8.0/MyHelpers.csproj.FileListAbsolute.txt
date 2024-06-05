@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\PB201-Tasks\IndexerListRef\MyHelpers\bin\Debug\net8.0\MyHelpers.deps.json
+C:\Users\User\Desktop\PB201-Tasks\IndexerListRef\MyHelpers\bin\Debug\net8.0\MyHelpers.dll
+C:\Users\User\Desktop\PB201-Tasks\IndexerListRef\MyHelpers\bin\Debug\net8.0\MyHelpers.pdb
+C:\Users\User\Desktop\PB201-Tasks\IndexerListRef\MyHelpers\obj\Debug\net8.0\MyHelpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PB201-Tasks\IndexerListRef\MyHelpers\obj\Debug\net8.0\MyHelpers.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PB201-Tasks\IndexerListRef\MyHelpers\obj\Debug\net8.0\MyHelpers.AssemblyInfo.cs
+C:\Users\User\Desktop\PB201-Tasks\IndexerListRef\MyHelpers\obj\Debug\net8.0\MyHelpers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PB201-Tasks\IndexerListRef\MyHelpers\obj\Debug\net8.0\MyHelpers.sourcelink.json
+C:\Users\User\Desktop\PB201-Tasks\IndexerListRef\MyHelpers\obj\Debug\net8.0\MyHelpers.dll
+C:\Users\User\Desktop\PB201-Tasks\IndexerListRef\MyHelpers\obj\Debug\net8.0\refint\MyHelpers.dll
+C:\Users\User\Desktop\PB201-Tasks\IndexerListRef\MyHelpers\obj\Debug\net8.0\MyHelpers.pdb
+C:\Users\User\Desktop\PB201-Tasks\IndexerListRef\MyHelpers\obj\Debug\net8.0\ref\MyHelpers.dll

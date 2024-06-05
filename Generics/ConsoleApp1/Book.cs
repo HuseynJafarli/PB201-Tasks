@@ -16,7 +16,7 @@
             Name = name;
             AuthorName = authorName;
             PageCount = pageCount;
-            Code = string.Concat(char.ToUpper(name[0]), char.ToUpper(name[1]), count.ToString());
+            Code = char.ToUpper(name[0]) + char.ToUpper(name[1]) + count.ToString();
         }
 
         public override string ToString()
