@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\PB201-Tasks\SchoolERP - Architecture\SchoolERP.Data\bin\Debug\net8.0\SchoolERP.Data.deps.json
+C:\Users\User\Desktop\PB201-Tasks\SchoolERP - Architecture\SchoolERP.Data\bin\Debug\net8.0\SchoolERP.Data.dll
+C:\Users\User\Desktop\PB201-Tasks\SchoolERP - Architecture\SchoolERP.Data\bin\Debug\net8.0\SchoolERP.Data.pdb
+C:\Users\User\Desktop\PB201-Tasks\SchoolERP - Architecture\SchoolERP.Data\bin\Debug\net8.0\SchoolERP.Core.dll
+C:\Users\User\Desktop\PB201-Tasks\SchoolERP - Architecture\SchoolERP.Data\bin\Debug\net8.0\SchoolERP.Core.pdb
+C:\Users\User\Desktop\PB201-Tasks\SchoolERP - Architecture\SchoolERP.Data\obj\Debug\net8.0\SchoolERP.Data.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PB201-Tasks\SchoolERP - Architecture\SchoolERP.Data\obj\Debug\net8.0\SchoolERP.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PB201-Tasks\SchoolERP - Architecture\SchoolERP.Data\obj\Debug\net8.0\SchoolERP.Data.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PB201-Tasks\SchoolERP - Architecture\SchoolERP.Data\obj\Debug\net8.0\SchoolERP.Data.AssemblyInfo.cs
+C:\Users\User\Desktop\PB201-Tasks\SchoolERP - Architecture\SchoolERP.Data\obj\Debug\net8.0\SchoolERP.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PB201-Tasks\SchoolERP - Architecture\SchoolERP.Data\obj\Debug\net8.0\SchoolERP.Data.sourcelink.json
+C:\Users\User\Desktop\PB201-Tasks\SchoolERP - Architecture\SchoolERP.Data\obj\Debug\net8.0\SchoolER.54AF2C13.Up2Date
+C:\Users\User\Desktop\PB201-Tasks\SchoolERP - Architecture\SchoolERP.Data\obj\Debug\net8.0\SchoolERP.Data.dll
+C:\Users\User\Desktop\PB201-Tasks\SchoolERP - Architecture\SchoolERP.Data\obj\Debug\net8.0\refint\SchoolERP.Data.dll
+C:\Users\User\Desktop\PB201-Tasks\SchoolERP - Architecture\SchoolERP.Data\obj\Debug\net8.0\SchoolERP.Data.pdb
+C:\Users\User\Desktop\PB201-Tasks\SchoolERP - Architecture\SchoolERP.Data\obj\Debug\net8.0\ref\SchoolERP.Data.dll

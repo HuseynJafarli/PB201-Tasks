@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\PB201-Tasks\SchoolERP - Architecture\SchoolERP.Core\bin\Debug\net8.0\SchoolERP.Core.deps.json
+C:\Users\User\Desktop\PB201-Tasks\SchoolERP - Architecture\SchoolERP.Core\bin\Debug\net8.0\SchoolERP.Core.dll
+C:\Users\User\Desktop\PB201-Tasks\SchoolERP - Architecture\SchoolERP.Core\bin\Debug\net8.0\SchoolERP.Core.pdb
+C:\Users\User\Desktop\PB201-Tasks\SchoolERP - Architecture\SchoolERP.Core\obj\Debug\net8.0\SchoolERP.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PB201-Tasks\SchoolERP - Architecture\SchoolERP.Core\obj\Debug\net8.0\SchoolERP.Core.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PB201-Tasks\SchoolERP - Architecture\SchoolERP.Core\obj\Debug\net8.0\SchoolERP.Core.AssemblyInfo.cs
+C:\Users\User\Desktop\PB201-Tasks\SchoolERP - Architecture\SchoolERP.Core\obj\Debug\net8.0\SchoolERP.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PB201-Tasks\SchoolERP - Architecture\SchoolERP.Core\obj\Debug\net8.0\SchoolERP.Core.sourcelink.json
+C:\Users\User\Desktop\PB201-Tasks\SchoolERP - Architecture\SchoolERP.Core\obj\Debug\net8.0\SchoolERP.Core.dll
+C:\Users\User\Desktop\PB201-Tasks\SchoolERP - Architecture\SchoolERP.Core\obj\Debug\net8.0\refint\SchoolERP.Core.dll
+C:\Users\User\Desktop\PB201-Tasks\SchoolERP - Architecture\SchoolERP.Core\obj\Debug\net8.0\SchoolERP.Core.pdb
+C:\Users\User\Desktop\PB201-Tasks\SchoolERP - Architecture\SchoolERP.Core\obj\Debug\net8.0\ref\SchoolERP.Core.dll
