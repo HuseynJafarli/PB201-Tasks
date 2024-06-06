@@ -38,10 +38,13 @@ namespace SchoolERP.Business.Services.Implementations
         public void Remove(int id)
         {
             Student? wantedStudent = SchoolERPDatabase.Students.Find(x => x.Id == id);
+            Teacher modifiedTeacher = SchoolERPDatabase.Teachers.Find(x => x.Id == wantedStudent.TeacherId);
 
-            if (wantedStudent != null)
+
+            if (wantedStudent != null && modifiedTeacher != null)
             {
                 SchoolERPDatabase.Students.Remove(wantedStudent);
+                modifiedTeacher?.Students.Remove(wantedStudent);
             }
             else
             {
