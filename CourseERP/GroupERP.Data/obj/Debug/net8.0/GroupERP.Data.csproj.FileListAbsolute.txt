@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\PB201-Tasks\CourseERP\GroupERP.Data\bin\Debug\net8.0\GroupERP.Data.deps.json
+C:\Users\User\Desktop\PB201-Tasks\CourseERP\GroupERP.Data\bin\Debug\net8.0\GroupERP.Data.dll
+C:\Users\User\Desktop\PB201-Tasks\CourseERP\GroupERP.Data\bin\Debug\net8.0\GroupERP.Data.pdb
+C:\Users\User\Desktop\PB201-Tasks\CourseERP\GroupERP.Data\bin\Debug\net8.0\GroupERP.Core.dll
+C:\Users\User\Desktop\PB201-Tasks\CourseERP\GroupERP.Data\bin\Debug\net8.0\GroupERP.Core.pdb
+C:\Users\User\Desktop\PB201-Tasks\CourseERP\GroupERP.Data\obj\Debug\net8.0\GroupERP.Data.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PB201-Tasks\CourseERP\GroupERP.Data\obj\Debug\net8.0\GroupERP.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PB201-Tasks\CourseERP\GroupERP.Data\obj\Debug\net8.0\GroupERP.Data.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PB201-Tasks\CourseERP\GroupERP.Data\obj\Debug\net8.0\GroupERP.Data.AssemblyInfo.cs
+C:\Users\User\Desktop\PB201-Tasks\CourseERP\GroupERP.Data\obj\Debug\net8.0\GroupERP.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PB201-Tasks\CourseERP\GroupERP.Data\obj\Debug\net8.0\GroupERP.Data.sourcelink.json
+C:\Users\User\Desktop\PB201-Tasks\CourseERP\GroupERP.Data\obj\Debug\net8.0\GroupERP.6F3E5C45.Up2Date
+C:\Users\User\Desktop\PB201-Tasks\CourseERP\GroupERP.Data\obj\Debug\net8.0\GroupERP.Data.dll
+C:\Users\User\Desktop\PB201-Tasks\CourseERP\GroupERP.Data\obj\Debug\net8.0\refint\GroupERP.Data.dll
+C:\Users\User\Desktop\PB201-Tasks\CourseERP\GroupERP.Data\obj\Debug\net8.0\GroupERP.Data.pdb
+C:\Users\User\Desktop\PB201-Tasks\CourseERP\GroupERP.Data\obj\Debug\net8.0\ref\GroupERP.Data.dll

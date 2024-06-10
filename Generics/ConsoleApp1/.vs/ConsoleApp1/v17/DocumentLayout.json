@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\PB201-Tasks\\Generics\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E2B01A9B-DE44-4C14-B0B0-DB823F23C5D4}|ConsoleApp1.csproj|c:\\users\\user\\desktop\\pb201-tasks\\generics\\consoleapp1\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2B01A9B-DE44-4C14-B0B0-DB823F23C5D4}|ConsoleApp1.csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2B01A9B-DE44-4C14-B0B0-DB823F23C5D4}|ConsoleApp1.csproj|c:\\users\\user\\desktop\\pb201-tasks\\generics\\consoleapp1\\booknotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2B01A9B-DE44-4C14-B0B0-DB823F23C5D4}|ConsoleApp1.csproj|solutionrelative:booknotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2B01A9B-DE44-4C14-B0B0-DB823F23C5D4}|ConsoleApp1.csproj|c:\\users\\user\\desktop\\pb201-tasks\\generics\\consoleapp1\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2B01A9B-DE44-4C14-B0B0-DB823F23C5D4}|ConsoleApp1.csproj|solutionrelative:helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E2B01A9B-DE44-4C14-B0B0-DB823F23C5D4}|ConsoleApp1.csproj|c:\\users\\user\\desktop\\pb201-tasks\\generics\\consoleapp1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2B01A9B-DE44-4C14-B0B0-DB823F23C5D4}|ConsoleApp1.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E2B01A9B-DE44-4C14-B0B0-DB823F23C5D4}|ConsoleApp1.csproj|c:\\users\\user\\desktop\\pb201-tasks\\generics\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2B01A9B-DE44-4C14-B0B0-DB823F23C5D4}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B01A9B-DE44-4C14-B0B0-DB823F23C5D4}|ConsoleApp1.csproj|c:\\users\\user\\desktop\\pb201-tasks\\generics\\consoleapp1\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B01A9B-DE44-4C14-B0B0-DB823F23C5D4}|ConsoleApp1.csproj|solutionrelative:helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B01A9B-DE44-4C14-B0B0-DB823F23C5D4}|ConsoleApp1.csproj|c:\\users\\user\\desktop\\pb201-tasks\\generics\\consoleapp1\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B01A9B-DE44-4C14-B0B0-DB823F23C5D4}|ConsoleApp1.csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B01A9B-DE44-4C14-B0B0-DB823F23C5D4}|ConsoleApp1.csproj|c:\\users\\user\\desktop\\pb201-tasks\\generics\\consoleapp1\\booknotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B01A9B-DE44-4C14-B0B0-DB823F23C5D4}|ConsoleApp1.csproj|solutionrelative:booknotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -38,16 +38,16 @@
               "Title": "Helper.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\Generics\\ConsoleApp1\\Helper.cs",
               "RelativeDocumentMoniker": "Helper.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\Generics\\ConsoleApp1\\Helper.cs*",
-              "RelativeToolTip": "Helper.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\Generics\\ConsoleApp1\\Helper.cs",
+              "RelativeToolTip": "Helper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T06:17:06.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "BookNotFound.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\Generics\\ConsoleApp1\\BookNotFound.cs",
               "RelativeDocumentMoniker": "BookNotFound.cs",
@@ -55,44 +55,43 @@
               "RelativeToolTip": "BookNotFound.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T07:39:53.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T07:39:53.676Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Library.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\Generics\\ConsoleApp1\\Library.cs",
               "RelativeDocumentMoniker": "Library.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\Generics\\ConsoleApp1\\Library.cs*",
-              "RelativeToolTip": "Library.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAMAAAA",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\Generics\\ConsoleApp1\\Library.cs",
+              "RelativeToolTip": "Library.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwCMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T05:39:54.293Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\Generics\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\Generics\\ConsoleApp1\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAxwC0AAAAAAAAA",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\Generics\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T05:39:29.039Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\Generics\\ConsoleApp1\\Book.cs",
               "RelativeDocumentMoniker": "Book.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\Generics\\ConsoleApp1\\Book.cs*",
-              "RelativeToolTip": "Book.cs*",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA0AAAAJAAAA",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\Generics\\ConsoleApp1\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T05:39:48.392Z",
               "EditorCaption": ""

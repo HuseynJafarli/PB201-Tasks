@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\PB201-Tasks\\IndexerListRef\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{103063C9-814D-4E9C-9CF3-763A22213657}|IndexerListRef\\IndexerListRef.csproj|c:\\users\\user\\desktop\\pb201-tasks\\indexerlistref\\indexerlistref\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{103063C9-814D-4E9C-9CF3-763A22213657}|IndexerListRef\\IndexerListRef.csproj|solutionrelative:indexerlistref\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{103063C9-814D-4E9C-9CF3-763A22213657}|IndexerListRef\\IndexerListRef.csproj|c:\\users\\user\\desktop\\pb201-tasks\\indexerlistref\\indexerlistref\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{103063C9-814D-4E9C-9CF3-763A22213657}|IndexerListRef\\IndexerListRef.csproj|solutionrelative:indexerlistref\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{103063C9-814D-4E9C-9CF3-763A22213657}|IndexerListRef\\IndexerListRef.csproj|c:\\users\\user\\desktop\\pb201-tasks\\indexerlistref\\indexerlistref\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{103063C9-814D-4E9C-9CF3-763A22213657}|IndexerListRef\\IndexerListRef.csproj|solutionrelative:indexerlistref\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C724BB57-3801-4AAF-AB55-398CBAB231F8}|MyHelpers\\MyHelpers.csproj|c:\\users\\user\\desktop\\pb201-tasks\\indexerlistref\\myhelpers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C724BB57-3801-4AAF-AB55-398CBAB231F8}|MyHelpers\\MyHelpers.csproj|solutionrelative:myhelpers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{103063C9-814D-4E9C-9CF3-763A22213657}|IndexerListRef\\IndexerListRef.csproj|c:\\users\\user\\desktop\\pb201-tasks\\indexerlistref\\indexerlistref\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{103063C9-814D-4E9C-9CF3-763A22213657}|IndexerListRef\\IndexerListRef.csproj|solutionrelative:indexerlistref\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{103063C9-814D-4E9C-9CF3-763A22213657}|IndexerListRef\\IndexerListRef.csproj|c:\\users\\user\\desktop\\pb201-tasks\\indexerlistref\\indexerlistref\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{103063C9-814D-4E9C-9CF3-763A22213657}|IndexerListRef\\IndexerListRef.csproj|solutionrelative:indexerlistref\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C724BB57-3801-4AAF-AB55-398CBAB231F8}|MyHelpers\\MyHelpers.csproj|c:\\users\\user\\desktop\\pb201-tasks\\indexerlistref\\myhelpers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C724BB57-3801-4AAF-AB55-398CBAB231F8}|MyHelpers\\MyHelpers.csproj|solutionrelative:myhelpers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Helper.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\IndexerListRef\\MyHelpers\\Helper.cs",
               "RelativeDocumentMoniker": "MyHelpers\\Helper.cs",
@@ -42,15 +42,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\IndexerListRef\\IndexerListRef\\Book.cs",
               "RelativeDocumentMoniker": "IndexerListRef\\Book.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\IndexerListRef\\IndexerListRef\\Book.cs",
               "RelativeToolTip": "IndexerListRef\\Book.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAgwBwAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T06:28:00.428Z"
+              "WhenOpened": "2024-06-05T06:28:00.428Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -60,20 +61,20 @@
               "RelativeDocumentMoniker": "IndexerListRef\\Library.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\IndexerListRef\\IndexerListRef\\Library.cs",
               "RelativeToolTip": "IndexerListRef\\Library.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAwwD8AAAANAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAcwCMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T06:28:14.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\IndexerListRef\\IndexerListRef\\Program.cs",
               "RelativeDocumentMoniker": "IndexerListRef\\Program.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\IndexerListRef\\IndexerListRef\\Program.cs",
               "RelativeToolTip": "IndexerListRef\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T06:23:14.187Z",
               "EditorCaption": ""

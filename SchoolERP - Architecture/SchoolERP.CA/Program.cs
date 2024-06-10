@@ -43,6 +43,7 @@ namespace SchoolERP.CA
 
             //teacher1.Students.ForEach(x => Console.WriteLine(x.Fullname));
             studentService.Remove(2);
+            studentService.GetAll().ForEach((x) => Console.WriteLine(x.ToString() + "\n"));
             teacher2.Students.ForEach(x => Console.WriteLine(x.Fullname));
 
             Console.WriteLine();

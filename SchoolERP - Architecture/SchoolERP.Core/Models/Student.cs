@@ -2,7 +2,7 @@
 {
     public class Student: BaseModel
     {
-        private static int _count;
+       private static int _count;
        public string Fullname { get; set; }
         public double Grade { get; set; }
         public Teacher Teacher { get; set; }

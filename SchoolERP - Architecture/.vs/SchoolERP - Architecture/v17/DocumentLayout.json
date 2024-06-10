@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\PB201-Tasks\\SchoolERP - Architecture\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4E8B68DD-2345-48C6-B1E3-75B67EEAD233}|SchoolERP.Core\\SchoolERP.Core.csproj|c:\\users\\user\\desktop\\pb201-tasks\\schoolerp - architecture\\schoolerp.core\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8B68DD-2345-48C6-B1E3-75B67EEAD233}|SchoolERP.Core\\SchoolERP.Core.csproj|solutionrelative:schoolerp.core\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FE1DB7B3-7E2D-4C69-98D4-6F3D4A4EEDC0}|SchoolERP.CA\\SchoolERP.CA.csproj|c:\\users\\user\\desktop\\pb201-tasks\\schoolerp - architecture\\schoolerp.ca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE1DB7B3-7E2D-4C69-98D4-6F3D4A4EEDC0}|SchoolERP.CA\\SchoolERP.CA.csproj|solutionrelative:schoolerp.ca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,20 +19,16 @@
       "RelativeMoniker": "D:0:0:{4E8B68DD-2345-48C6-B1E3-75B67EEAD233}|SchoolERP.Core\\SchoolERP.Core.csproj|solutionrelative:schoolerp.core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{485B899F-0CD0-43F4-B2C5-03AE9F56AFE1}|SchoolERP.Data\\SchoolERP.Data.csproj|c:\\users\\user\\desktop\\pb201-tasks\\schoolerp - architecture\\schoolerp.data\\dal\\schoolerpdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{485B899F-0CD0-43F4-B2C5-03AE9F56AFE1}|SchoolERP.Data\\SchoolERP.Data.csproj|solutionrelative:schoolerp.data\\dal\\schoolerpdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{11A20D38-8E68-4A16-A6B5-2831A5DDCBC4}|SchoolERP.Business\\SchoolERP.Business.csproj|c:\\users\\user\\desktop\\pb201-tasks\\schoolerp - architecture\\schoolerp.business\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11A20D38-8E68-4A16-A6B5-2831A5DDCBC4}|SchoolERP.Business\\SchoolERP.Business.csproj|solutionrelative:schoolerp.business\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11A20D38-8E68-4A16-A6B5-2831A5DDCBC4}|SchoolERP.Business\\SchoolERP.Business.csproj|c:\\users\\user\\desktop\\pb201-tasks\\schoolerp - architecture\\schoolerp.business\\services\\implementations\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11A20D38-8E68-4A16-A6B5-2831A5DDCBC4}|SchoolERP.Business\\SchoolERP.Business.csproj|solutionrelative:schoolerp.business\\services\\implementations\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E8B68DD-2345-48C6-B1E3-75B67EEAD233}|SchoolERP.Core\\SchoolERP.Core.csproj|c:\\users\\user\\desktop\\pb201-tasks\\schoolerp - architecture\\schoolerp.core\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E8B68DD-2345-48C6-B1E3-75B67EEAD233}|SchoolERP.Core\\SchoolERP.Core.csproj|solutionrelative:schoolerp.core\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{485B899F-0CD0-43F4-B2C5-03AE9F56AFE1}|SchoolERP.Data\\SchoolERP.Data.csproj|c:\\users\\user\\desktop\\pb201-tasks\\schoolerp - architecture\\schoolerp.data\\dal\\schoolerpdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{485B899F-0CD0-43F4-B2C5-03AE9F56AFE1}|SchoolERP.Data\\SchoolERP.Data.csproj|solutionrelative:schoolerp.data\\dal\\schoolerpdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,93 +38,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "StudentService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\SchoolERP - Architecture\\SchoolERP.Business\\Services\\Implementations\\StudentService.cs",
               "RelativeDocumentMoniker": "SchoolERP.Business\\Services\\Implementations\\StudentService.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\SchoolERP - Architecture\\SchoolERP.Business\\Services\\Implementations\\StudentService.cs",
               "RelativeToolTip": "SchoolERP.Business\\Services\\Implementations\\StudentService.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAYwC4AAABAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T06:18:08.81Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "IStudentService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\SchoolERP - Architecture\\SchoolERP.Business\\Services\\Interfaces\\IStudentService.cs",
               "RelativeDocumentMoniker": "SchoolERP.Business\\Services\\Interfaces\\IStudentService.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\SchoolERP - Architecture\\SchoolERP.Business\\Services\\Interfaces\\IStudentService.cs",
               "RelativeToolTip": "SchoolERP.Business\\Services\\Interfaces\\IStudentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T06:32:01.503Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "SchoolERPDatabase.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\SchoolERP - Architecture\\SchoolERP.Data\\DAL\\SchoolERPDatabase.cs",
               "RelativeDocumentMoniker": "SchoolERP.Data\\DAL\\SchoolERPDatabase.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\SchoolERP - Architecture\\SchoolERP.Data\\DAL\\SchoolERPDatabase.cs",
               "RelativeToolTip": "SchoolERP.Data\\DAL\\SchoolERPDatabase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAyAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T06:31:06.672Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TeacherService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\SchoolERP - Architecture\\SchoolERP.Business\\Services\\Implementations\\TeacherService.cs",
-              "RelativeDocumentMoniker": "SchoolERP.Business\\Services\\Implementations\\TeacherService.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\SchoolERP - Architecture\\SchoolERP.Business\\Services\\Implementations\\TeacherService.cs",
-              "RelativeToolTip": "SchoolERP.Business\\Services\\Implementations\\TeacherService.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAgwC4AAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T06:28:10.715Z",
+              "WhenOpened": "2024-06-06T06:31:06.672Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Teacher.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\SchoolERP - Architecture\\SchoolERP.Core\\Models\\Teacher.cs",
-              "RelativeDocumentMoniker": "SchoolERP.Core\\Models\\Teacher.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\SchoolERP - Architecture\\SchoolERP.Core\\Models\\Teacher.cs",
-              "RelativeToolTip": "SchoolERP.Core\\Models\\Teacher.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T05:02:50.137Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\SchoolERP - Architecture\\SchoolERP.Core\\Models\\Student.cs",
               "RelativeDocumentMoniker": "SchoolERP.Core\\Models\\Student.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\SchoolERP - Architecture\\SchoolERP.Core\\Models\\Student.cs",
               "RelativeToolTip": "SchoolERP.Core\\Models\\Student.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBIAAAAJAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwA4AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T05:02:56.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeacherService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\SchoolERP - Architecture\\SchoolERP.Business\\Services\\Implementations\\TeacherService.cs",
+              "RelativeDocumentMoniker": "SchoolERP.Business\\Services\\Implementations\\TeacherService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\SchoolERP - Architecture\\SchoolERP.Business\\Services\\Implementations\\TeacherService.cs",
+              "RelativeToolTip": "SchoolERP.Business\\Services\\Implementations\\TeacherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:28:10.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\SchoolERP - Architecture\\SchoolERP.Core\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "SchoolERP.Core\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\SchoolERP - Architecture\\SchoolERP.Core\\Models\\Teacher.cs",
+              "RelativeToolTip": "SchoolERP.Core\\Models\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:02:50.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\SchoolERP - Architecture\\SchoolERP.CA\\Program.cs",
               "RelativeDocumentMoniker": "SchoolERP.CA\\Program.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\SchoolERP - Architecture\\SchoolERP.CA\\Program.cs",
               "RelativeToolTip": "SchoolERP.CA\\Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwCwAAAAlAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T05:01:43.334Z",
               "EditorCaption": ""

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\PB201-Tasks\\ExceptionEnum-Hotel Task\\HotelCalifornia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC189240-F626-4350-A5D9-B7D851469B7C}|HotelCalifornia.csproj|c:\\users\\user\\desktop\\pb201-tasks\\exceptionenum-hotel task\\hotelcalifornia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC189240-F626-4350-A5D9-B7D851469B7C}|HotelCalifornia.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AC189240-F626-4350-A5D9-B7D851469B7C}|HotelCalifornia.csproj|c:\\users\\user\\desktop\\pb201-tasks\\exceptionenum-hotel task\\hotelcalifornia\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC189240-F626-4350-A5D9-B7D851469B7C}|HotelCalifornia.csproj|solutionrelative:hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC189240-F626-4350-A5D9-B7D851469B7C}|HotelCalifornia.csproj|c:\\users\\user\\desktop\\pb201-tasks\\exceptionenum-hotel task\\hotelcalifornia\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC189240-F626-4350-A5D9-B7D851469B7C}|HotelCalifornia.csproj|solutionrelative:room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC189240-F626-4350-A5D9-B7D851469B7C}|HotelCalifornia.csproj|c:\\users\\user\\desktop\\pb201-tasks\\exceptionenum-hotel task\\hotelcalifornia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC189240-F626-4350-A5D9-B7D851469B7C}|HotelCalifornia.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC189240-F626-4350-A5D9-B7D851469B7C}|HotelCalifornia.csproj|c:\\users\\user\\desktop\\pb201-tasks\\exceptionenum-hotel task\\hotelcalifornia\\notavailableexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -46,8 +46,7 @@
               "RelativeToolTip": "Type.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T22:44:16.068Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T22:44:16.068Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "Car.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAxwA0AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T22:42:54.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T22:42:54.833Z"
             },
             {
               "$type": "Document",
@@ -72,44 +70,43 @@
               "RelativeToolTip": "NotAvailableException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T21:15:19.762Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T21:15:19.762Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Hotel.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\ExceptionEnum-Hotel Task\\HotelCalifornia\\Hotel.cs",
               "RelativeDocumentMoniker": "Hotel.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\ExceptionEnum-Hotel Task\\HotelCalifornia\\Hotel.cs",
               "RelativeToolTip": "Hotel.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAgwBYAAABGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T18:50:39.926Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Room.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\ExceptionEnum-Hotel Task\\HotelCalifornia\\Room.cs",
               "RelativeDocumentMoniker": "Room.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\ExceptionEnum-Hotel Task\\HotelCalifornia\\Room.cs",
               "RelativeToolTip": "Room.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBYAAAAIAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwBYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T18:50:22.372Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\ExceptionEnum-Hotel Task\\HotelCalifornia\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\ExceptionEnum-Hotel Task\\HotelCalifornia\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAAwDAAAAA8AAAA",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\ExceptionEnum-Hotel Task\\HotelCalifornia\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T18:48:40.514Z",
               "EditorCaption": ""
