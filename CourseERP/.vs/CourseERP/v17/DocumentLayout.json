@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{FEC5F9B7-8ACF-4F95-AF1C-51544E366035}|GroupERP.CA\\GroupERP.CA.csproj|solutionrelative:grouperp.ca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7EC23873-40EF-4005-B322-7CB90DF2D3E6}|GroupERP.Business\\GroupERP.Business.csproj|c:\\users\\user\\desktop\\pb201-tasks\\courseerp\\grouperp.business\\services\\controller\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC23873-40EF-4005-B322-7CB90DF2D3E6}|GroupERP.Business\\GroupERP.Business.csproj|solutionrelative:grouperp.business\\services\\controller\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7EC23873-40EF-4005-B322-7CB90DF2D3E6}|GroupERP.Business\\GroupERP.Business.csproj|c:\\users\\user\\desktop\\pb201-tasks\\courseerp\\grouperp.business\\services\\implementations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EC23873-40EF-4005-B322-7CB90DF2D3E6}|GroupERP.Business\\GroupERP.Business.csproj|solutionrelative:grouperp.business\\services\\implementations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{34C8A343-DD07-491D-B466-4DE983E6A832}|GroupERP.Data\\GroupERP.Data.csproj|c:\\users\\user\\desktop\\pb201-tasks\\courseerp\\grouperp.data\\dal\\groupdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34C8A343-DD07-491D-B466-4DE983E6A832}|GroupERP.Data\\GroupERP.Data.csproj|solutionrelative:grouperp.data\\dal\\groupdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EC23873-40EF-4005-B322-7CB90DF2D3E6}|GroupERP.Business\\GroupERP.Business.csproj|c:\\users\\user\\desktop\\pb201-tasks\\courseerp\\grouperp.business\\services\\controller\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EC23873-40EF-4005-B322-7CB90DF2D3E6}|GroupERP.Business\\GroupERP.Business.csproj|solutionrelative:grouperp.business\\services\\controller\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3985639-66E4-4672-B4F2-EFC604B5EDDC}|GroupERP.Core\\GroupERP.Core.csproj|c:\\users\\user\\desktop\\pb201-tasks\\courseerp\\grouperp.core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +54,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Controller.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\CourseERP\\GroupERP.Business\\Services\\Controller\\Controller.cs",
               "RelativeDocumentMoniker": "GroupERP.Business\\Services\\Controller\\Controller.cs",
@@ -71,16 +71,16 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\CourseERP\\GroupERP.CA\\Program.cs",
               "RelativeDocumentMoniker": "GroupERP.CA\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\CourseERP\\GroupERP.CA\\Program.cs",
-              "RelativeToolTip": "GroupERP.CA\\Program.cs",
-              "ViewState": "AQIAAIcAAAAAAAAAAAAAwKoAAAARAAAA",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\CourseERP\\GroupERP.CA\\Program.cs*",
+              "RelativeToolTip": "GroupERP.CA\\Program.cs*",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAYwFYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-09T23:28:15.896Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IStudentServices.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\CourseERP\\GroupERP.Business\\Services\\Interfaces\\IStudentServices.cs",
               "RelativeDocumentMoniker": "GroupERP.Business\\Services\\Interfaces\\IStudentServices.cs",
@@ -88,12 +88,11 @@
               "RelativeToolTip": "GroupERP.Business\\Services\\Interfaces\\IStudentServices.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T22:47:43.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T22:47:43.043Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "GroupData.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\CourseERP\\GroupERP.Data\\DAL\\GroupData.cs",
               "RelativeDocumentMoniker": "GroupERP.Data\\DAL\\GroupData.cs",
@@ -101,8 +100,7 @@
               "RelativeToolTip": "GroupERP.Data\\DAL\\GroupData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T22:44:49.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T22:44:49.081Z"
             },
             {
               "$type": "Document",
@@ -114,8 +112,7 @@
               "RelativeToolTip": "GroupERP.Core\\Models\\BaseModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T22:42:22.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T22:42:22.766Z"
             },
             {
               "$type": "Document",
@@ -127,8 +124,7 @@
               "RelativeToolTip": "GroupERP.Core\\Models\\Student.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T22:40:20.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T22:40:20.404Z"
             },
             {
               "$type": "Document",
@@ -140,12 +136,11 @@
               "RelativeToolTip": "GroupERP.Business\\Services\\Implementations\\GroupService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T22:55:59.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T22:55:59.559Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Group.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\CourseERP\\GroupERP.Core\\Models\\Group.cs",
               "RelativeDocumentMoniker": "GroupERP.Core\\Models\\Group.cs",
@@ -153,12 +148,11 @@
               "RelativeToolTip": "GroupERP.Core\\Models\\Group.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T22:40:10.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T22:40:10.447Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "StudentService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\CourseERP\\GroupERP.Business\\Services\\Implementations\\StudentService.cs",
               "RelativeDocumentMoniker": "GroupERP.Business\\Services\\Implementations\\StudentService.cs",
@@ -166,8 +160,7 @@
               "RelativeToolTip": "GroupERP.Business\\Services\\Implementations\\StudentService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T22:56:12.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T22:56:12.92Z"
             },
             {
               "$type": "Document",

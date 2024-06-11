@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\PB201-Tasks\ProductERP\ProductERP.Data\bin\Debug\net8.0\ProductERP.Data.deps.json
+C:\Users\User\Desktop\PB201-Tasks\ProductERP\ProductERP.Data\bin\Debug\net8.0\ProductERP.Data.dll
+C:\Users\User\Desktop\PB201-Tasks\ProductERP\ProductERP.Data\bin\Debug\net8.0\ProductERP.Data.pdb
+C:\Users\User\Desktop\PB201-Tasks\ProductERP\ProductERP.Data\bin\Debug\net8.0\ProductERP.Core.dll
+C:\Users\User\Desktop\PB201-Tasks\ProductERP\ProductERP.Data\bin\Debug\net8.0\ProductERP.Core.pdb
+C:\Users\User\Desktop\PB201-Tasks\ProductERP\ProductERP.Data\obj\Debug\net8.0\ProductERP.Data.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PB201-Tasks\ProductERP\ProductERP.Data\obj\Debug\net8.0\ProductERP.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PB201-Tasks\ProductERP\ProductERP.Data\obj\Debug\net8.0\ProductERP.Data.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PB201-Tasks\ProductERP\ProductERP.Data\obj\Debug\net8.0\ProductERP.Data.AssemblyInfo.cs
+C:\Users\User\Desktop\PB201-Tasks\ProductERP\ProductERP.Data\obj\Debug\net8.0\ProductERP.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PB201-Tasks\ProductERP\ProductERP.Data\obj\Debug\net8.0\ProductERP.Data.sourcelink.json
+C:\Users\User\Desktop\PB201-Tasks\ProductERP\ProductERP.Data\obj\Debug\net8.0\ProductE.B5EB4285.Up2Date
+C:\Users\User\Desktop\PB201-Tasks\ProductERP\ProductERP.Data\obj\Debug\net8.0\ProductERP.Data.dll
+C:\Users\User\Desktop\PB201-Tasks\ProductERP\ProductERP.Data\obj\Debug\net8.0\refint\ProductERP.Data.dll
+C:\Users\User\Desktop\PB201-Tasks\ProductERP\ProductERP.Data\obj\Debug\net8.0\ProductERP.Data.pdb
+C:\Users\User\Desktop\PB201-Tasks\ProductERP\ProductERP.Data\obj\Debug\net8.0\ref\ProductERP.Data.dll

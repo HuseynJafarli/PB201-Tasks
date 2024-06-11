@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProductERP.Business/1.0.0": {
+        "dependencies": {
+          "ProductERP.Data": "1.0.0"
+        },
+        "runtime": {
+          "ProductERP.Business.dll": {}
+        }
+      },
+      "ProductERP.Core/1.0.0": {
+        "runtime": {
+          "ProductERP.Core.dll": {}
+        }
+      },
+      "ProductERP.Data/1.0.0": {
+        "dependencies": {
+          "ProductERP.Core": "1.0.0"
+        },
+        "runtime": {
+          "ProductERP.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProductERP.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProductERP.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProductERP.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
