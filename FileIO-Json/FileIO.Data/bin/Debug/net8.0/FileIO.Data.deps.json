@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FileIO.Data/1.0.0": {
+        "dependencies": {
+          "FileIO.Core": "1.0.0"
+        },
+        "runtime": {
+          "FileIO.Data.dll": {}
+        }
+      },
+      "FileIO.Core/1.0.0": {
+        "runtime": {
+          "FileIO.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileIO.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FileIO.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

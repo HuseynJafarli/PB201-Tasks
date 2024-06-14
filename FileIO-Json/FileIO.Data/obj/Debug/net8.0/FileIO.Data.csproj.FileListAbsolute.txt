@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\PB201-Tasks\FileIO-Json\FileIO.Data\bin\Debug\net8.0\FileIO.Data.deps.json
+C:\Users\User\Desktop\PB201-Tasks\FileIO-Json\FileIO.Data\bin\Debug\net8.0\FileIO.Data.dll
+C:\Users\User\Desktop\PB201-Tasks\FileIO-Json\FileIO.Data\bin\Debug\net8.0\FileIO.Data.pdb
+C:\Users\User\Desktop\PB201-Tasks\FileIO-Json\FileIO.Data\bin\Debug\net8.0\FileIO.Core.dll
+C:\Users\User\Desktop\PB201-Tasks\FileIO-Json\FileIO.Data\bin\Debug\net8.0\FileIO.Core.pdb
+C:\Users\User\Desktop\PB201-Tasks\FileIO-Json\FileIO.Data\obj\Debug\net8.0\FileIO.Data.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PB201-Tasks\FileIO-Json\FileIO.Data\obj\Debug\net8.0\FileIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PB201-Tasks\FileIO-Json\FileIO.Data\obj\Debug\net8.0\FileIO.Data.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PB201-Tasks\FileIO-Json\FileIO.Data\obj\Debug\net8.0\FileIO.Data.AssemblyInfo.cs
+C:\Users\User\Desktop\PB201-Tasks\FileIO-Json\FileIO.Data\obj\Debug\net8.0\FileIO.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PB201-Tasks\FileIO-Json\FileIO.Data\obj\Debug\net8.0\FileIO.Data.sourcelink.json
+C:\Users\User\Desktop\PB201-Tasks\FileIO-Json\FileIO.Data\obj\Debug\net8.0\FileIO.D.1486963D.Up2Date
+C:\Users\User\Desktop\PB201-Tasks\FileIO-Json\FileIO.Data\obj\Debug\net8.0\FileIO.Data.dll
+C:\Users\User\Desktop\PB201-Tasks\FileIO-Json\FileIO.Data\obj\Debug\net8.0\refint\FileIO.Data.dll
+C:\Users\User\Desktop\PB201-Tasks\FileIO-Json\FileIO.Data\obj\Debug\net8.0\FileIO.Data.pdb
+C:\Users\User\Desktop\PB201-Tasks\FileIO-Json\FileIO.Data\obj\Debug\net8.0\ref\FileIO.Data.dll

@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\PB201-Tasks\FileIO-Json\FileIO.Core\bin\Debug\net8.0\FileIO.Core.deps.json
+C:\Users\User\Desktop\PB201-Tasks\FileIO-Json\FileIO.Core\bin\Debug\net8.0\FileIO.Core.dll
+C:\Users\User\Desktop\PB201-Tasks\FileIO-Json\FileIO.Core\bin\Debug\net8.0\FileIO.Core.pdb
+C:\Users\User\Desktop\PB201-Tasks\FileIO-Json\FileIO.Core\obj\Debug\net8.0\FileIO.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PB201-Tasks\FileIO-Json\FileIO.Core\obj\Debug\net8.0\FileIO.Core.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PB201-Tasks\FileIO-Json\FileIO.Core\obj\Debug\net8.0\FileIO.Core.AssemblyInfo.cs
+C:\Users\User\Desktop\PB201-Tasks\FileIO-Json\FileIO.Core\obj\Debug\net8.0\FileIO.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PB201-Tasks\FileIO-Json\FileIO.Core\obj\Debug\net8.0\FileIO.Core.sourcelink.json
+C:\Users\User\Desktop\PB201-Tasks\FileIO-Json\FileIO.Core\obj\Debug\net8.0\FileIO.Core.dll
+C:\Users\User\Desktop\PB201-Tasks\FileIO-Json\FileIO.Core\obj\Debug\net8.0\refint\FileIO.Core.dll
+C:\Users\User\Desktop\PB201-Tasks\FileIO-Json\FileIO.Core\obj\Debug\net8.0\FileIO.Core.pdb
+C:\Users\User\Desktop\PB201-Tasks\FileIO-Json\FileIO.Core\obj\Debug\net8.0\ref\FileIO.Core.dll
