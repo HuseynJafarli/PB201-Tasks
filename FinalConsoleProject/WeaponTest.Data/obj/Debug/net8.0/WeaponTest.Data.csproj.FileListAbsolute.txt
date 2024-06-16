@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\PB201-Tasks\FinalConsoleProject\WeaponTest.Data\bin\Debug\net8.0\WeaponTest.Data.deps.json
+C:\Users\User\Desktop\PB201-Tasks\FinalConsoleProject\WeaponTest.Data\bin\Debug\net8.0\WeaponTest.Data.dll
+C:\Users\User\Desktop\PB201-Tasks\FinalConsoleProject\WeaponTest.Data\bin\Debug\net8.0\WeaponTest.Data.pdb
+C:\Users\User\Desktop\PB201-Tasks\FinalConsoleProject\WeaponTest.Data\bin\Debug\net8.0\WeaponTest.Core.dll
+C:\Users\User\Desktop\PB201-Tasks\FinalConsoleProject\WeaponTest.Data\bin\Debug\net8.0\WeaponTest.Core.pdb
+C:\Users\User\Desktop\PB201-Tasks\FinalConsoleProject\WeaponTest.Data\obj\Debug\net8.0\WeaponTest.Data.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PB201-Tasks\FinalConsoleProject\WeaponTest.Data\obj\Debug\net8.0\WeaponTest.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PB201-Tasks\FinalConsoleProject\WeaponTest.Data\obj\Debug\net8.0\WeaponTest.Data.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PB201-Tasks\FinalConsoleProject\WeaponTest.Data\obj\Debug\net8.0\WeaponTest.Data.AssemblyInfo.cs
+C:\Users\User\Desktop\PB201-Tasks\FinalConsoleProject\WeaponTest.Data\obj\Debug\net8.0\WeaponTest.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PB201-Tasks\FinalConsoleProject\WeaponTest.Data\obj\Debug\net8.0\WeaponTest.Data.sourcelink.json
+C:\Users\User\Desktop\PB201-Tasks\FinalConsoleProject\WeaponTest.Data\obj\Debug\net8.0\WeaponTe.BC7CA1DB.Up2Date
+C:\Users\User\Desktop\PB201-Tasks\FinalConsoleProject\WeaponTest.Data\obj\Debug\net8.0\WeaponTest.Data.dll
+C:\Users\User\Desktop\PB201-Tasks\FinalConsoleProject\WeaponTest.Data\obj\Debug\net8.0\refint\WeaponTest.Data.dll
+C:\Users\User\Desktop\PB201-Tasks\FinalConsoleProject\WeaponTest.Data\obj\Debug\net8.0\WeaponTest.Data.pdb
+C:\Users\User\Desktop\PB201-Tasks\FinalConsoleProject\WeaponTest.Data\obj\Debug\net8.0\ref\WeaponTest.Data.dll

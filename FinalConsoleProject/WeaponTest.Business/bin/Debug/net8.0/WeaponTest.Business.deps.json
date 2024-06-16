@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WeaponTest.Business/1.0.0": {
+        "dependencies": {
+          "WeaponTest.Data": "1.0.0"
+        },
+        "runtime": {
+          "WeaponTest.Business.dll": {}
+        }
+      },
+      "WeaponTest.Core/1.0.0": {
+        "runtime": {
+          "WeaponTest.Core.dll": {}
+        }
+      },
+      "WeaponTest.Data/1.0.0": {
+        "dependencies": {
+          "WeaponTest.Core": "1.0.0"
+        },
+        "runtime": {
+          "WeaponTest.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeaponTest.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WeaponTest.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WeaponTest.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
