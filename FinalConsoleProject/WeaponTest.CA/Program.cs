@@ -50,14 +50,39 @@ namespace WeaponTest.CA
                             else
                             {
                                 weapon.MagSize = temp;
+                                Console.WriteLine("Mag size changed successfully!");
                                 break;
                             }
                         }
-                        Console.WriteLine("Press any key to return to weapon menu...");
+                        Console.WriteLine("Press any key to return to edit menu...");
                         Console.ReadKey();
                         break;
                     case "2":
                         Console.Clear();
+                        int tempAmmo;
+                        while (true)
+                        {
+                            Console.WriteLine("Please change the ammo count:");
+                            tempAmmo = Controller.EnterValidInt();
+                            if(tempAmmo == weapon.CurrentAmmo)
+                            {
+                                Console.WriteLine("Mag that you entered have the same size with the previous!");
+                                break;
+                            }
+                            else if(tempAmmo > weapon.MagSize)
+                            {
+                                Console.WriteLine("Ammo count cant be more than mag size!");
+                                break;
+                            }
+                            else
+                            {
+                                weapon.CurrentAmmo = tempAmmo;
+                                Console.WriteLine("Ammo count changed successfully!");
+                                break;
+                            }
+                        }
+                        Console.WriteLine("Press any key to return to edit menu...");
+                        Console.ReadKey();  
                         break;
                     case "3":
                         Console.Clear();
