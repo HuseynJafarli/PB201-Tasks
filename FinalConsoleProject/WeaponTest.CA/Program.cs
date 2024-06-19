@@ -2,6 +2,7 @@
 using WeaponTest.Business.Services.Implementations;
 using WeaponTest.Business.Services.Interfaces;
 using WeaponTest.Core.Models;
+using WeaponTest.Data.DataBase;
 
 namespace WeaponTest.CA
 {
@@ -10,11 +11,73 @@ namespace WeaponTest.CA
         static void Main(string[] args)
         {
             IWeaponService weaponService = new WeaponService();
-            Weapon weapon = new Weapon();
-            Controller.Creator(weapon);
-            WeaponMenu(weaponService, weapon);
+            Weapon selectedWeapon = null;
+            MainMenu(weaponService, WeaponData.Weapons, ref selectedWeapon);
         }
-
+        static void MainMenu(IWeaponService weaponService, List<Weapon> weapons, ref Weapon selectedWeapon)
+        {
+            while (true)
+            {
+                Console.Clear();
+                Console.WriteLine("""
+                    Main Menu:
+                    1. Create Weapon
+                    2. Select Weapon
+                    3. Weapon Menu
+                    4. Exit
+                    """);
+                string choice = Console.ReadLine();
+                switch (choice)
+                {
+                    case "1":
+                        Controller.Creator();
+                        break;
+                    case "2":
+                        if (WeaponData.Weapons.Count == 0)
+                        {
+                            Console.WriteLine("Please create a weapon before selecting one!");
+                            Console.WriteLine("Returning to menu...");
+                            Thread.Sleep(1500);
+                        }
+                        else
+                        {
+                            selectedWeapon = Controller.SelectWeapon();
+                            if (selectedWeapon == null)
+                            {
+                                Console.WriteLine("Selection failed. Press any key to return...");
+                                Console.ReadKey();
+                            }
+                            else
+                            {
+                                Console.WriteLine($"Weapon {selectedWeapon.Id} selected successfully! Press any key to return...");
+                                Console.ReadKey();
+                            }
+                        }
+                        break;
+                    case "3":
+                        if (selectedWeapon != null)
+                        {
+                            WeaponMenu(weaponService, selectedWeapon);
+                        }
+                        else
+                        {
+                            Console.WriteLine("No weapon selected. Please select a weapon first.");
+                            Console.WriteLine("Returning to menu...");
+                            Thread.Sleep(1500);
+                        }
+                        break;
+                    case "4":
+                        Console.WriteLine("Exited successfully!");
+                        return;
+                    default:
+                        Console.Clear();
+                        Console.WriteLine("Invalid choice, try again!");
+                        Console.WriteLine("Returning to menu...");
+                        Thread.Sleep(1500);
+                        break;
+                }
+            }
+        }
         static void EditMenu(IWeaponService weaponService, Weapon weapon)
         {
             Console.Clear();
@@ -36,7 +99,7 @@ namespace WeaponTest.CA
                         while (true)
                         {
                             Console.WriteLine("Please enter new mag size:");
-                            temp = Controller.EnterValidInt();
+                            temp = Controller.MagSizeSetter();
                             if (temp < weapon.CurrentAmmo)
                             {
                                 Console.WriteLine("Your cant fit all ammos to this mag!");
@@ -60,16 +123,17 @@ namespace WeaponTest.CA
                     case "2":
                         Console.Clear();
                         int tempAmmo;
+                        
                         while (true)
                         {
                             Console.WriteLine("Please change the ammo count:");
                             tempAmmo = Controller.EnterValidInt();
-                            if(tempAmmo == weapon.CurrentAmmo)
+                            if (tempAmmo == weapon.CurrentAmmo)
                             {
                                 Console.WriteLine("Mag that you entered have the same size with the previous!");
                                 break;
                             }
-                            else if(tempAmmo > weapon.MagSize)
+                            else if (tempAmmo > weapon.MagSize)
                             {
                                 Console.WriteLine("Ammo count cant be more than mag size!");
                                 break;
@@ -82,13 +146,16 @@ namespace WeaponTest.CA
                             }
                         }
                         Console.WriteLine("Press any key to return to edit menu...");
-                        Console.ReadKey();  
+                        Console.ReadKey();
                         break;
                     case "3":
                         Console.Clear();
                         return;
                     default:
+                        Console.Clear();
                         Console.WriteLine("Invalid choice , try again!");
+                        Console.WriteLine("Returning to menu...");
+                        Thread.Sleep(1500);
                         break;
                 }
             }
@@ -161,7 +228,10 @@ namespace WeaponTest.CA
                         EditMenu(weaponService, weapon);
                         break;
                     default:
+                        Console.Clear();
                         Console.WriteLine("Invalid choice , try again!");
+                        Console.WriteLine("Returning to menu...");
+                        Thread.Sleep(1500);
                         break;
                 }
             }

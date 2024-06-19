@@ -10,6 +10,5 @@ namespace WeaponTest.Business.Services.Interfaces
         void Reload(Weapon weapon);
         void ChangeFireMode(Weapon weapon);
 
-
     }
 }
