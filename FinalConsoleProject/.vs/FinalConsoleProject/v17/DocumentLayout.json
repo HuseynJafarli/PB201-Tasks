@@ -46,8 +46,7 @@
               "RelativeToolTip": "WeaponTest.Business\\Controller\\Controller.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAQwAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T17:33:04.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-15T17:33:04.067Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "WeaponTest.Business\\Services\\Implementations\\WeaponService.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAQwBMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T16:05:56.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-15T16:05:56.064Z"
             },
             {
               "$type": "Document",
@@ -72,8 +70,7 @@
               "RelativeToolTip": "WeaponTest.Business\\Services\\Interfaces\\IWeaponService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T16:03:23.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-15T16:03:23.351Z"
             },
             {
               "$type": "Document",
@@ -85,8 +82,7 @@
               "RelativeToolTip": "WeaponTest.Data\\DataBase\\WeaponData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T16:00:56.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-15T16:00:56.327Z"
             },
             {
               "$type": "Document",
@@ -98,8 +94,7 @@
               "RelativeToolTip": "WeaponTest.Core\\Models\\Weapon.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T15:55:19.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-15T15:55:19.67Z"
             },
             {
               "$type": "Document",
@@ -109,7 +104,7 @@
               "RelativeDocumentMoniker": "WeaponTest.CA\\Program.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\FinalConsoleProject\\WeaponTest.CA\\Program.cs",
               "RelativeToolTip": "WeaponTest.CA\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAZAAAA",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAgwHwAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-15T15:53:54.261Z",
               "EditorCaption": ""
