@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\PB201-Tasks\\EntityFramework-ManyToMany\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2F56BF-2049-40D3-9D1B-2B4860F6DFF0}|EntityFramework-ManyToMany\\EntityFramework-ManyToMany.csproj|c:\\users\\user\\desktop\\pb201-tasks\\entityframework-manytomany\\entityframework-manytomany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2F56BF-2049-40D3-9D1B-2B4860F6DFF0}|EntityFramework-ManyToMany\\EntityFramework-ManyToMany.csproj|solutionrelative:entityframework-manytomany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\PB201-Tasks\\EntityFramework-ManyToMany\\EntityFramework-ManyToMany\\Migrations\\20240708092702_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EntityFramework-ManyToMany\\Migrations\\20240708092702_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2F56BF-2049-40D3-9D1B-2B4860F6DFF0}|EntityFramework-ManyToMany\\EntityFramework-ManyToMany.csproj|c:\\users\\user\\desktop\\pb201-tasks\\entityframework-manytomany\\entityframework-manytomany\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2F56BF-2049-40D3-9D1B-2B4860F6DFF0}|EntityFramework-ManyToMany\\EntityFramework-ManyToMany.csproj|solutionrelative:entityframework-manytomany\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2F56BF-2049-40D3-9D1B-2B4860F6DFF0}|EntityFramework-ManyToMany\\EntityFramework-ManyToMany.csproj|c:\\users\\user\\desktop\\pb201-tasks\\entityframework-manytomany\\entityframework-manytomany\\models\\carcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2F56BF-2049-40D3-9D1B-2B4860F6DFF0}|EntityFramework-ManyToMany\\EntityFramework-ManyToMany.csproj|solutionrelative:entityframework-manytomany\\models\\carcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2F56BF-2049-40D3-9D1B-2B4860F6DFF0}|EntityFramework-ManyToMany\\EntityFramework-ManyToMany.csproj|c:\\users\\user\\desktop\\pb201-tasks\\entityframework-manytomany\\entityframework-manytomany\\models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2F56BF-2049-40D3-9D1B-2B4860F6DFF0}|EntityFramework-ManyToMany\\EntityFramework-ManyToMany.csproj|solutionrelative:entityframework-manytomany\\models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2F56BF-2049-40D3-9D1B-2B4860F6DFF0}|EntityFramework-ManyToMany\\EntityFramework-ManyToMany.csproj|c:\\users\\user\\desktop\\pb201-tasks\\entityframework-manytomany\\entityframework-manytomany\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2F56BF-2049-40D3-9D1B-2B4860F6DFF0}|EntityFramework-ManyToMany\\EntityFramework-ManyToMany.csproj|solutionrelative:entityframework-manytomany\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2F56BF-2049-40D3-9D1B-2B4860F6DFF0}|EntityFramework-ManyToMany\\EntityFramework-ManyToMany.csproj|c:\\users\\user\\desktop\\pb201-tasks\\entityframework-manytomany\\entityframework-manytomany\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2F56BF-2049-40D3-9D1B-2B4860F6DFF0}|EntityFramework-ManyToMany\\EntityFramework-ManyToMany.csproj|solutionrelative:entityframework-manytomany\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2F56BF-2049-40D3-9D1B-2B4860F6DFF0}|EntityFramework-ManyToMany\\EntityFramework-ManyToMany.csproj|c:\\users\\user\\desktop\\pb201-tasks\\entityframework-manytomany\\entityframework-manytomany\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2F56BF-2049-40D3-9D1B-2B4860F6DFF0}|EntityFramework-ManyToMany\\EntityFramework-ManyToMany.csproj|solutionrelative:entityframework-manytomany\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240708092702_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\EntityFramework-ManyToMany\\EntityFramework-ManyToMany\\Migrations\\20240708092702_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EntityFramework-ManyToMany\\Migrations\\20240708092702_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\EntityFramework-ManyToMany\\EntityFramework-ManyToMany\\Migrations\\20240708092702_InitialCreate.cs",
+              "RelativeToolTip": "EntityFramework-ManyToMany\\Migrations\\20240708092702_InitialCreate.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:27:03.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\EntityFramework-ManyToMany\\EntityFramework-ManyToMany\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EntityFramework-ManyToMany\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\EntityFramework-ManyToMany\\EntityFramework-ManyToMany\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "EntityFramework-ManyToMany\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:15:37.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarColor.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\EntityFramework-ManyToMany\\EntityFramework-ManyToMany\\Models\\CarColor.cs",
+              "RelativeDocumentMoniker": "EntityFramework-ManyToMany\\Models\\CarColor.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\EntityFramework-ManyToMany\\EntityFramework-ManyToMany\\Models\\CarColor.cs",
+              "RelativeToolTip": "EntityFramework-ManyToMany\\Models\\CarColor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:14:19.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\EntityFramework-ManyToMany\\EntityFramework-ManyToMany\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "EntityFramework-ManyToMany\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\EntityFramework-ManyToMany\\EntityFramework-ManyToMany\\Models\\Car.cs",
+              "RelativeToolTip": "EntityFramework-ManyToMany\\Models\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:11:11.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\EntityFramework-ManyToMany\\EntityFramework-ManyToMany\\Models\\Color.cs",
+              "RelativeDocumentMoniker": "EntityFramework-ManyToMany\\Models\\Color.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\EntityFramework-ManyToMany\\EntityFramework-ManyToMany\\Models\\Color.cs",
+              "RelativeToolTip": "EntityFramework-ManyToMany\\Models\\Color.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:11:03.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\EntityFramework-ManyToMany\\EntityFramework-ManyToMany\\Models\\Model.cs",
+              "RelativeDocumentMoniker": "EntityFramework-ManyToMany\\Models\\Model.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\EntityFramework-ManyToMany\\EntityFramework-ManyToMany\\Models\\Model.cs",
+              "RelativeToolTip": "EntityFramework-ManyToMany\\Models\\Model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:10:45.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\EntityFramework-ManyToMany\\EntityFramework-ManyToMany\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "EntityFramework-ManyToMany\\Models\\Brand.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\EntityFramework-ManyToMany\\EntityFramework-ManyToMany\\Models\\Brand.cs",
+              "RelativeToolTip": "EntityFramework-ManyToMany\\Models\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:10:37.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\EntityFramework-ManyToMany\\EntityFramework-ManyToMany\\Program.cs",
+              "RelativeDocumentMoniker": "EntityFramework-ManyToMany\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\EntityFramework-ManyToMany\\EntityFramework-ManyToMany\\Program.cs",
+              "RelativeToolTip": "EntityFramework-ManyToMany\\Program.cs",
+              "ViewState": "AQIAAPoAAAAAAAAAAAA5wOYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:09:34.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
