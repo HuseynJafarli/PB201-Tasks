@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\PB201-Tasks\\EntityFramework-Final-Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1686C336-C532-4ED3-85A7-69035FE8A2E7}|LibraryApp.Data\\LibraryApp.Data.csproj|c:\\users\\user\\desktop\\pb201-tasks\\entityframework-final-project\\libraryapp.data\\dal\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1686C336-C532-4ED3-85A7-69035FE8A2E7}|LibraryApp.Data\\LibraryApp.Data.csproj|solutionrelative:libraryapp.data\\dal\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DAF3FD-C581-45E9-B8AD-2819CB061950}|LibraryApp.Core\\LibraryApp.Core.csproj|c:\\users\\user\\desktop\\pb201-tasks\\entityframework-final-project\\libraryapp.core\\models\\loanitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DAF3FD-C581-45E9-B8AD-2819CB061950}|LibraryApp.Core\\LibraryApp.Core.csproj|solutionrelative:libraryapp.core\\models\\loanitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DAF3FD-C581-45E9-B8AD-2819CB061950}|LibraryApp.Core\\LibraryApp.Core.csproj|c:\\users\\user\\desktop\\pb201-tasks\\entityframework-final-project\\libraryapp.core\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DAF3FD-C581-45E9-B8AD-2819CB061950}|LibraryApp.Core\\LibraryApp.Core.csproj|solutionrelative:libraryapp.core\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DAF3FD-C581-45E9-B8AD-2819CB061950}|LibraryApp.Core\\LibraryApp.Core.csproj|c:\\users\\user\\desktop\\pb201-tasks\\entityframework-final-project\\libraryapp.core\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DAF3FD-C581-45E9-B8AD-2819CB061950}|LibraryApp.Core\\LibraryApp.Core.csproj|solutionrelative:libraryapp.core\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93A236E-B490-47B9-B179-ED51637372FC}|LibraryApp.UI\\LibraryApp.UI.csproj|c:\\users\\user\\desktop\\pb201-tasks\\entityframework-final-project\\libraryapp.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93A236E-B490-47B9-B179-ED51637372FC}|LibraryApp.UI\\LibraryApp.UI.csproj|solutionrelative:libraryapp.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DAF3FD-C581-45E9-B8AD-2819CB061950}|LibraryApp.Core\\LibraryApp.Core.csproj|c:\\users\\user\\desktop\\pb201-tasks\\entityframework-final-project\\libraryapp.core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DAF3FD-C581-45E9-B8AD-2819CB061950}|LibraryApp.Core\\LibraryApp.Core.csproj|solutionrelative:libraryapp.core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DAF3FD-C581-45E9-B8AD-2819CB061950}|LibraryApp.Core\\LibraryApp.Core.csproj|c:\\users\\user\\desktop\\pb201-tasks\\entityframework-final-project\\libraryapp.core\\models\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DAF3FD-C581-45E9-B8AD-2819CB061950}|LibraryApp.Core\\LibraryApp.Core.csproj|solutionrelative:libraryapp.core\\models\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DAF3FD-C581-45E9-B8AD-2819CB061950}|LibraryApp.Core\\LibraryApp.Core.csproj|c:\\users\\user\\desktop\\pb201-tasks\\entityframework-final-project\\libraryapp.core\\models\\bookauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DAF3FD-C581-45E9-B8AD-2819CB061950}|LibraryApp.Core\\LibraryApp.Core.csproj|solutionrelative:libraryapp.core\\models\\bookauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\EntityFramework-Final-Project\\LibraryApp.Core\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryApp.Core\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\EntityFramework-Final-Project\\LibraryApp.Core\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryApp.Core\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T12:19:35.398Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\EntityFramework-Final-Project\\LibraryApp.Data\\DAL\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "LibraryApp.Data\\DAL\\LibraryDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\EntityFramework-Final-Project\\LibraryApp.Data\\DAL\\LibraryDbContext.cs",
+              "RelativeToolTip": "LibraryApp.Data\\DAL\\LibraryDbContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowCsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T12:32:42.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookAuthor.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\EntityFramework-Final-Project\\LibraryApp.Core\\Models\\BookAuthor.cs",
+              "RelativeDocumentMoniker": "LibraryApp.Core\\Models\\BookAuthor.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\EntityFramework-Final-Project\\LibraryApp.Core\\Models\\BookAuthor.cs",
+              "RelativeToolTip": "LibraryApp.Core\\Models\\BookAuthor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T12:21:51.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoanItem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\EntityFramework-Final-Project\\LibraryApp.Core\\Models\\LoanItem.cs",
+              "RelativeDocumentMoniker": "LibraryApp.Core\\Models\\LoanItem.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\EntityFramework-Final-Project\\LibraryApp.Core\\Models\\LoanItem.cs",
+              "RelativeToolTip": "LibraryApp.Core\\Models\\LoanItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T12:20:52.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\EntityFramework-Final-Project\\LibraryApp.Core\\Models\\Loan.cs",
+              "RelativeDocumentMoniker": "LibraryApp.Core\\Models\\Loan.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\EntityFramework-Final-Project\\LibraryApp.Core\\Models\\Loan.cs",
+              "RelativeToolTip": "LibraryApp.Core\\Models\\Loan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T12:20:37.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Borrower.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\EntityFramework-Final-Project\\LibraryApp.Core\\Models\\Borrower.cs",
+              "RelativeDocumentMoniker": "LibraryApp.Core\\Models\\Borrower.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\EntityFramework-Final-Project\\LibraryApp.Core\\Models\\Borrower.cs",
+              "RelativeToolTip": "LibraryApp.Core\\Models\\Borrower.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T12:20:25.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\EntityFramework-Final-Project\\LibraryApp.Core\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "LibraryApp.Core\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\EntityFramework-Final-Project\\LibraryApp.Core\\Models\\Author.cs",
+              "RelativeToolTip": "LibraryApp.Core\\Models\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T12:19:55.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\EntityFramework-Final-Project\\LibraryApp.UI\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryApp.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\EntityFramework-Final-Project\\LibraryApp.UI\\Program.cs",
+              "RelativeToolTip": "LibraryApp.UI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T12:18:25.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
