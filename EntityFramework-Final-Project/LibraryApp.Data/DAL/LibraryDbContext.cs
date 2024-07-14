@@ -30,8 +30,7 @@ namespace LibraryApp.Data.DAL
             modelBuilder.Entity<Book>()
                 .HasOne(x => x.Borrower)
                 .WithMany(x => x.Books)
-                .HasForeignKey(x => x.BorrowerId)
-                .OnDelete(DeleteBehavior.Cascade);
+                .HasForeignKey(x => x.BorrowerId);
 
             modelBuilder.Entity<BookAuthor>().HasOne(x => x.Book).WithMany(x => x.BookAuthors);
             modelBuilder.Entity<BookAuthor>().HasOne(x => x.Author).WithMany(x => x.BookAuthors);
@@ -43,19 +42,27 @@ namespace LibraryApp.Data.DAL
 
             modelBuilder.Entity<LoanItem>()
                 .HasOne(x => x.Loan)
-                .WithMany(x => x.LoanItems)
-                .HasForeignKey(x=>x.LoanId)
-                .OnDelete(DeleteBehavior.Cascade);
+                .WithMany(x => x.LoanItems);
 
             modelBuilder.Entity<LoanItem>()
                 .HasOne(x => x.Book)
-                .WithMany()
-                .HasForeignKey(x => x.BookId)
-                .OnDelete(DeleteBehavior.Cascade);
+                .WithMany(x => x.LoanItems);
+
+            modelBuilder.Entity<Borrower>()
+                .Property(x => x.Name)
+                .IsRequired()
+                .HasMaxLength(100)
+                .HasColumnType("NVARCHAR");
+
+            modelBuilder.Entity<Borrower>()
+                .Property(x => x.Email)
+                .IsRequired()
+                .HasMaxLength(100)
+                .HasColumnType("NVARCHAR");
+
 
             base.OnModelCreating(modelBuilder);
         }
-
 
     }
 }

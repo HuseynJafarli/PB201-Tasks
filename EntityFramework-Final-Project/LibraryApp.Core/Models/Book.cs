@@ -10,5 +10,6 @@
 
         public Borrower Borrower { get; set; }
         public List<BookAuthor> BookAuthors { get; set; }
+        public List<LoanItem> LoanItems { get; set; }
     }
 }
