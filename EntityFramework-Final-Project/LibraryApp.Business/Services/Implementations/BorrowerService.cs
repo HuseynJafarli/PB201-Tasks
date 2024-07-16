@@ -25,11 +25,15 @@ namespace LibraryApp.Business.Services.Implementations
             await _borrowerRepository.CommitAsync();
         }
 
-        //public async Task UpdateBorrowerAsync(Borrower borrower)
-        //{
-        //    _borrowerRepository.UpdateAsync(borrower);
-        //    await _borrowerRepository.SaveChangesAsync();
-        //}
+        public async Task UpdateBorrowerAsync(Borrower borrower)
+        {
+            var existData = await _borrowerRepository.GetAsync(borrower.Id);
+            if (existData != null)
+            {
+                existData.Name = borrower.Name;
+                existData.Email = borrower.Email;
+            }
+        }
 
         public async Task DeleteBorrowerAsync(int borrowerId)
         {

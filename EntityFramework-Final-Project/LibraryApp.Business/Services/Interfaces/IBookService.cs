@@ -11,8 +11,11 @@ namespace LibraryApp.Business.Services.Interfaces
     {
         List<Book> GetAllBooks();
         Task CreateBookAsync(Book book);
-        //Task UpdateBookAsync(Book book);
+        Task UpdateBookAsync(Book book);
         Task DeleteBookAsync(int bookId);
+        List<Book> FilterBooksByTitle(string title);
+        List<Book> FilterBooksByAuthor(string authorName);
+
 
     }
 }

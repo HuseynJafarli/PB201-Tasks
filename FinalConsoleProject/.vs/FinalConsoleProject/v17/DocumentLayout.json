@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{872727CC-9A96-4C63-A99E-97D8AE7ECAA7}|WeaponTest.CA\\WeaponTest.CA.csproj|solutionrelative:weapontest.ca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1D57991B-C7D3-49FD-A66C-7793557DE93C}|WeaponTest.Core\\WeaponTest.Core.csproj|c:\\users\\user\\desktop\\pb201-tasks\\finalconsoleproject\\weapontest.core\\models\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D57991B-C7D3-49FD-A66C-7793557DE93C}|WeaponTest.Core\\WeaponTest.Core.csproj|solutionrelative:weapontest.core\\models\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4B83D863-3F0A-4DF8-9412-5A550DE5F0D7}|WeaponTest.Business\\WeaponTest.Business.csproj|c:\\users\\user\\desktop\\pb201-tasks\\finalconsoleproject\\weapontest.business\\controller\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B83D863-3F0A-4DF8-9412-5A550DE5F0D7}|WeaponTest.Business\\WeaponTest.Business.csproj|solutionrelative:weapontest.business\\controller\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B83D863-3F0A-4DF8-9412-5A550DE5F0D7}|WeaponTest.Business\\WeaponTest.Business.csproj|c:\\users\\user\\desktop\\pb201-tasks\\finalconsoleproject\\weapontest.business\\services\\implementations\\weaponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B83D863-3F0A-4DF8-9412-5A550DE5F0D7}|WeaponTest.Business\\WeaponTest.Business.csproj|solutionrelative:weapontest.business\\services\\implementations\\weaponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D57991B-C7D3-49FD-A66C-7793557DE93C}|WeaponTest.Core\\WeaponTest.Core.csproj|c:\\users\\user\\desktop\\pb201-tasks\\finalconsoleproject\\weapontest.core\\models\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D57991B-C7D3-49FD-A66C-7793557DE93C}|WeaponTest.Core\\WeaponTest.Core.csproj|solutionrelative:weapontest.core\\models\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B83D863-3F0A-4DF8-9412-5A550DE5F0D7}|WeaponTest.Business\\WeaponTest.Business.csproj|c:\\users\\user\\desktop\\pb201-tasks\\finalconsoleproject\\weapontest.business\\services\\interfaces\\iweaponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,19 +38,19 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Controller.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\FinalConsoleProject\\WeaponTest.Business\\Controller\\Controller.cs",
               "RelativeDocumentMoniker": "WeaponTest.Business\\Controller\\Controller.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\FinalConsoleProject\\WeaponTest.Business\\Controller\\Controller.cs",
               "RelativeToolTip": "WeaponTest.Business\\Controller\\Controller.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAQwAwAAAAAAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAUAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-15T17:33:04.067Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "WeaponService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\FinalConsoleProject\\WeaponTest.Business\\Services\\Implementations\\WeaponService.cs",
               "RelativeDocumentMoniker": "WeaponTest.Business\\Services\\Implementations\\WeaponService.cs",
@@ -86,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Weapon.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\FinalConsoleProject\\WeaponTest.Core\\Models\\Weapon.cs",
               "RelativeDocumentMoniker": "WeaponTest.Core\\Models\\Weapon.cs",
@@ -104,7 +104,7 @@
               "RelativeDocumentMoniker": "WeaponTest.CA\\Program.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\FinalConsoleProject\\WeaponTest.CA\\Program.cs",
               "RelativeToolTip": "WeaponTest.CA\\Program.cs",
-              "ViewState": "AQIAAG4AAAAAAAAAAAAgwHwAAAAlAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAL4AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-15T15:53:54.261Z",
               "EditorCaption": ""

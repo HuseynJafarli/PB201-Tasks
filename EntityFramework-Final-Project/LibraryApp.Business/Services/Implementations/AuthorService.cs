@@ -32,10 +32,6 @@ namespace LibraryApp.Core.Services
             {
                 existData.Name = author.Name;
             }
-            else
-            {
-                Console.WriteLine("Author dont exist!");
-            }
         }
 
         public async Task DeleteAuthorAsync(int authorId)

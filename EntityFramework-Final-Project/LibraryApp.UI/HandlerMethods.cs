@@ -7,11 +7,30 @@ namespace LibraryApp.UI
     {
         public static Author CreateAuthor()
         {
-            Console.WriteLine("Enter Author Name:");
-            var name = Console.ReadLine();
             Author author = new Author();
+            Console.WriteLine("Enter Author Name:");
             author.Name = EnterValidString();
             return author;
+        }
+        public static Book CreateBook()
+        {
+            Book book = new Book();
+            Console.WriteLine("Enter Book Title:");
+            book.Title = EnterValidString();
+            Console.WriteLine("Enter Book Description:");
+            book.Description = EnterValidString();
+            Console.WriteLine("Enter Book's Publish Year");
+            book.PublishedYear = GetChoice();
+            return book;
+        }
+        public static Borrower CreateBorrower()
+        {
+            Borrower borrower = new Borrower();
+            Console.WriteLine("Enter Borrower Name:");
+            borrower.Name = EnterValidString();
+            Console.WriteLine("Enter Borrower's Email:");
+            borrower.Email = EnterValidString();
+            return borrower;
         }
         public static string EnterValidString()
         {
@@ -33,26 +52,17 @@ namespace LibraryApp.UI
             } while (!true);
             return input;
         }
-        public static int EnterValidInt()
+
+        public static int GetChoice()
         {
-            int number;
-            bool isValidInput = false;
-
-            do
+            int choice;
+            while (!int.TryParse(Console.ReadLine(), out choice))
             {
-                string userInput = Console.ReadLine();
-
-                if (int.TryParse(userInput, out number))
-                {
-                    isValidInput = true;
-                    return number;
-                }
-                else
-                {
-                    Console.WriteLine("That's not a valid integer. Please try again.");
-                }
-            } while (!isValidInput);
-            return number;
+                Console.WriteLine("Invalid input. Please enter a number.");
+                Console.Write("Enter your choice: ");
+            }
+            return choice;
         }
+
     }
 }

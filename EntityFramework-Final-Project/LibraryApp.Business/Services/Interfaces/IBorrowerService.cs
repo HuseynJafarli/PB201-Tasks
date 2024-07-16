@@ -11,7 +11,7 @@ namespace LibraryApp.Business.Services.Interfaces
     {
         List<Borrower> GetAllBorrowers();
         Task CreateBorrowerAsync(Borrower borrower);
-        //Task UpdateBorrowerAsync(Borrower borrower);
+        Task UpdateBorrowerAsync(Borrower borrower);
         Task DeleteBorrowerAsync(int borrowerId);
     }
 }

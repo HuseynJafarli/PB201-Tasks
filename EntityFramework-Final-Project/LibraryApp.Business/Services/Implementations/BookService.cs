@@ -2,6 +2,7 @@
 using LibraryApp.Core.Models;
 using LibraryApp.Core.Repositories;
 using LibraryApp.Data.Repositories;
+using Microsoft.EntityFrameworkCore;
 
 namespace LibraryApp.Core.Services
 {
@@ -25,11 +26,16 @@ namespace LibraryApp.Core.Services
             await _bookRepository.CommitAsync();
         }
 
-        //public async Task UpdateBookAsync(Book book)
-        //{
-        //    _bookRepository.Update(book);
-        //    await _bookRepository.CommitAsync();
-        //}
+        public async Task UpdateBookAsync(Book book)
+        {
+            var existData = await _bookRepository.GetAsync(book.Id);
+            if (existData != null)
+            {
+                existData.Title = book.Title;
+                existData.Description = book.Description;
+                existData.PublishedYear = book.PublishedYear;
+            }
+        }
 
         public async Task DeleteBookAsync(int bookId)
         {
@@ -43,6 +49,22 @@ namespace LibraryApp.Core.Services
             {
                 Console.WriteLine("Id dont exist!");
             }
+        }
+
+        public List<Book> FilterBooksByTitle(string title)
+        {
+            return _bookRepository.GetAll()
+                .Where(b => b.Title.Contains(title))
+                .ToList();
+        }
+
+        public List<Book> FilterBooksByAuthor(string authorName)
+        {
+            return _bookRepository.GetAll()
+                .Include(b => b.BookAuthors)
+                .ThenInclude(ba => ba.Author)
+                .Where(b => b.BookAuthors.Any(ba => ba.Author.Name.Contains(authorName)))
+                .ToList();
         }
     }
 }
