@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\PB201-Tasks\\API_INTRO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B318341-5F36-4FB1-92E9-278F44A66BAD}|API_INTRO\\API_INTRO.csproj|c:\\users\\user\\desktop\\pb201-tasks\\api_intro\\api_intro\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B318341-5F36-4FB1-92E9-278F44A66BAD}|API_INTRO\\API_INTRO.csproj|solutionrelative:api_intro\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B318341-5F36-4FB1-92E9-278F44A66BAD}|API_INTRO\\API_INTRO.csproj|c:\\users\\user\\desktop\\pb201-tasks\\api_intro\\api_intro\\dtos\\bookdtos\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B318341-5F36-4FB1-92E9-278F44A66BAD}|API_INTRO\\API_INTRO.csproj|solutionrelative:api_intro\\dtos\\bookdtos\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B318341-5F36-4FB1-92E9-278F44A66BAD}|API_INTRO\\API_INTRO.csproj|c:\\users\\user\\desktop\\pb201-tasks\\api_intro\\api_intro\\dtos\\bookdtos\\bookgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B318341-5F36-4FB1-92E9-278F44A66BAD}|API_INTRO\\API_INTRO.csproj|solutionrelative:api_intro\\dtos\\bookdtos\\bookgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B318341-5F36-4FB1-92E9-278F44A66BAD}|API_INTRO\\API_INTRO.csproj|c:\\users\\user\\desktop\\pb201-tasks\\api_intro\\api_intro\\dtos\\bookdtos\\bookupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B318341-5F36-4FB1-92E9-278F44A66BAD}|API_INTRO\\API_INTRO.csproj|solutionrelative:api_intro\\dtos\\bookdtos\\bookupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\API_INTRO\\API_INTRO\\DTOs\\BookDTOs\\BookUpdateDto.cs",
+              "RelativeDocumentMoniker": "API_INTRO\\DTOs\\BookDTOs\\BookUpdateDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\API_INTRO\\API_INTRO\\DTOs\\BookDTOs\\BookUpdateDto.cs*",
+              "RelativeToolTip": "API_INTRO\\DTOs\\BookDTOs\\BookUpdateDto.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:36:31.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\API_INTRO\\API_INTRO\\DTOs\\BookDTOs\\BookGetDto.cs",
+              "RelativeDocumentMoniker": "API_INTRO\\DTOs\\BookDTOs\\BookGetDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\API_INTRO\\API_INTRO\\DTOs\\BookDTOs\\BookGetDto.cs*",
+              "RelativeToolTip": "API_INTRO\\DTOs\\BookDTOs\\BookGetDto.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:36:25.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\API_INTRO\\API_INTRO\\DTOs\\BookDTOs\\BookCreateDto.cs",
+              "RelativeDocumentMoniker": "API_INTRO\\DTOs\\BookDTOs\\BookCreateDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\API_INTRO\\API_INTRO\\DTOs\\BookDTOs\\BookCreateDto.cs*",
+              "RelativeToolTip": "API_INTRO\\DTOs\\BookDTOs\\BookCreateDto.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:36:16.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PB201-Tasks\\API_INTRO\\API_INTRO\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "API_INTRO\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PB201-Tasks\\API_INTRO\\API_INTRO\\Controllers\\BooksController.cs*",
+              "RelativeToolTip": "API_INTRO\\Controllers\\BooksController.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwEwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:35:07.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
